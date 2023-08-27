@@ -16,7 +16,7 @@ Linux環境にて、以下の手順に従ってください。
 必要なパッケージのインストール。Debian/Ubuntu環境では以下のとおりです。
 ```
 sudo apt update
-sudo apt install rpm2cpio
+sudo apt install wget rpm2cpio
 ```
 
 任意のディレクトリで、スクリプトを実行してください。
